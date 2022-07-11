@@ -4,6 +4,8 @@ Author: Ákos Kappel
 
 ## Assignment 1 - memory manager
 
+- memory allocation
+
 ## Assignment 2 - data structures
 
 - AVL tree
